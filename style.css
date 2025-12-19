@@ -16,5 +16,5 @@ font-style: italic;
     border: 2px dotted black;
     padding: 10px 10px 10px 10px;
     font-family: sans serif;
-}
-p.quote { font-family: "Pudelinka", cursive;}
+    }
+p.quote { font-family: "Pudelinka" , cursive;}
